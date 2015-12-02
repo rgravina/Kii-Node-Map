@@ -1,0 +1,32 @@
+{
+  "name": "kii-cloud-node-map",
+  "version": "0.0.1",
+  "description": "Example app using a world map.",
+  "main": "lib/index.js",
+  "bin": {
+    "kii-node-map": "bin/kii-node-map.js"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgravina/Kii-Node-Map.git"
+  },
+  "keywords": [
+    "kii",
+    "cloud"
+  ],
+  "authors": [
+    "Robert Gravina"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgravina/Kii-Node-Map/issues"
+  },
+  "homepage": "https://github.com/rgravina/Kii-Node-Map",
+  "dependencies": {
+    "jquery-xhr": "^2.1.3",
+    "kii-cloud-sdk": "^2.3.0"
+  }
+}

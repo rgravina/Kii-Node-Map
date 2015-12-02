@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/*
+*.swp
+kii-cloud-kii-node-map*.tgz
