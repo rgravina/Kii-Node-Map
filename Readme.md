@@ -1,6 +1,14 @@
 # Kii node.js map example
 
-Example app using a world map.
+An example Kii Cloud app making use of geoqueries.
+
+![Screenshot](https://raw.githubusercontent.com/wiki/rgravina/Kii-Node-Map/images/screenshot.png)
+
+## Tutorial
+
+Please see the tutorial [wiki page](https://github.com/rgravina/Kii-Node-Map/wiki/Kii-Node-Map-Tutorial) for a more detailed installation guide and walkthrough.
+
+If you'd just like to install and run the example, please see below.
 
 ## Installation
 
@@ -29,12 +37,8 @@ Kii.initializeWithSite(
 
 ## Running
 
-To run without installing via `npm`, run:
+To run, install dependencies and start the main script.
 ```
 npm install
 node bin/kii-node-map.js
 ```
-
-## Tutorial
-
-Please see the tutorial [wiki page](https://github.com/rgravina/Kii-Node-Map/wiki/Kii-Node-Map-Tutorial).
