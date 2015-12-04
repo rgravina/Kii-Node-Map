@@ -31,5 +31,10 @@ Kii.initializeWithSite(
 
 To run without installing via `npm`, run:
 ```
+npm install
 node bin/kii-node-map.js
 ```
+
+## Tutorial
+
+Please see the tutorial [wiki page](https://github.com/rgravina/Kii-Node-Map/wiki/Kii-Node-Map-Tutorial).
