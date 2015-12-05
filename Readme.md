@@ -23,7 +23,7 @@ Kii.initializeWithSite(
   "__KII_APP_ID__", // e.g. "abcd1234"
   "__KII_APP_KEY__", // e.g. "asdf4321"
   __KII_APP_SITE__ // e.g. KiiSite.US
-  );
+);
 ```
 
 ## Running
