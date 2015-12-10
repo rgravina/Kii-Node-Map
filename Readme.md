@@ -12,11 +12,8 @@ If you'd just like to install and run the example, please see below.
 
 ## Installation
 
-### From the developer portal
-If downloaded from the developer portal, the app id, key and site for the 'Kii Tutorial' app will be entered in the file `lib/modules/init.js`. 
-
-### From the Github repository
-To run directly from this repository, please replace these values in `lib/modules/init.js` with your app id, app key and site:
+First, create (or have ready) an app on Kii Cloud. You can create one via the [developer portal](http://developer.kii.com). 
+Then, replace these values in `lib/modules/init.js` with your app id, app key and site:
 
 ```javascript
 Kii.initializeWithSite(
